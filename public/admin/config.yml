@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: talves/netlify-cms-cra-simple
+  name: git-gateway
+  repo: master
 
 media_folder: "public/images"
 public_folder: "images"
